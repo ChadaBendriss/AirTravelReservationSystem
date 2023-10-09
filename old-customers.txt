@@ -1,0 +1,7 @@
+
+Customer ID: 1
+Name: CB
+Age: 23
+Mobile Number: 345678
+Address: DFFS
+Gender: F

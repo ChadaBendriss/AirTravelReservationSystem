@@ -1,0 +1,12 @@
+
+Name: CB
+Cab Type: Standard
+Kilometers: 33
+Hotel: FF
+Hotel Cost: 33
+
+Name: CB
+Cab Type: Luxury
+Kilometers: 333
+Hotel: FF
+Hotel Cost: 345

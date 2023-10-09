@@ -1,0 +1,11 @@
+----------ABC Travel Agency---------
+--------------Receipt---------------
+____________________________________
+Customer Name: 
+Description		 Total
+Hotel cost:		33.00
+Travel (cab) cost:	 825.00
+______________________________
+Total Charge:		858.00
+__________________________
+-----------THANK YOU-------
